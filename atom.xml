@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kanghaimeng.github.io</id>
     <title>Gridea</title>
-    <updated>2020-06-03T11:20:53.948Z</updated>
+    <updated>2020-06-03T11:23:37.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kanghaimeng.github.io"/>
     <link rel="self" href="https://kanghaimeng.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://kanghaimeng.github.io/images/avatar.png</logo>
     <icon>https://kanghaimeng.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[第一篇看看看]]></title>
+        <id>https://kanghaimeng.github.io/post/di-yi-pian-kan-kan-kan/</id>
+        <link href="https://kanghaimeng.github.io/post/di-yi-pian-kan-kan-kan/">
+        </link>
+        <updated>2020-06-03T11:21:58.000Z</updated>
+        <content type="html"><![CDATA[<p>马克飞翔马克飞翔马克飞翔马克飞翔马克飞翔马克飞翔</p>
+<p>马克飞翔马克飞翔</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://kanghaimeng.github.io/post/hello-gridea/</id>
